@@ -1,25 +1,5 @@
 [
     {
-        "casenumber": "2208030030000765",
-        "vertical": "Perf"
-    },
-    {
-        "casenumber": "2208180040001319",
-        "vertical": "Dev"
-    },
-    {
-        "casenumber": "2208160030000675001",
-        "vertical": "Config"
-    },
-    {
-        "casenumber": "2208220050000592",
-        "vertical": "OSS"
-    },
-    {
-        "casenumber": "2208180030001854",
-        "vertical": "APIM"
-    },
-    {
         "casenumber": "2208230050002251",
         "vertical": "ARM"
     },
